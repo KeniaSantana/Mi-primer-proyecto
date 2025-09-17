@@ -1,4 +1,4 @@
-# Trabajo-de-Clase
+# Mi primer proyecto
 Trabajo sobre github
 ### Informacion personal
 ![Foto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhQkJrvESzZkg4MxEXMJA9zII0dooRxKZjA&s)
