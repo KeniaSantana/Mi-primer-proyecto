@@ -5,4 +5,4 @@ Trabajo sobre girhub
 - Especialidad: Programacion
 - Semestre:5to grupo:D
 - Nombre:Kenia Alejandra Santana Ruiz
-![Foto](C:\Users\Kenia Santana\Videos\Captures\0000.jpg)
+![Foto](blob:https://web.whatsapp.com/a7bc0d59-d7f2-41ff-ac58-23780fb747a1)
