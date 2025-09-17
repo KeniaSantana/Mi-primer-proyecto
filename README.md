@@ -1,5 +1,5 @@
 # Trabajo-de-Clase
-Trabajo sobre girhub
+Trabajo sobre github
 ### Informacion personal
 ![Foto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhQkJrvESzZkg4MxEXMJA9zII0dooRxKZjA&s)
 - Preparatoria: Centro de Estudios Tecnológicos Industrial y de Servicios No. 61. 
